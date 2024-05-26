@@ -1,13 +1,16 @@
 # Site settings
 title: Brno Arts Collective
-tagline: By Pixelarity
-email: thusspokebac@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collective seeking out intentional artistic connection. Based in Brno, we are an
   international community. Our meetings are multilingual but at a baseline English
   friendly. View our socials for more information about the events we organize.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brnoartscollective.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+email: thusspokebac@gmail.com
+facebook: "https://www.facebook.com/profile.php?id=61556885731288"
+instagram: "https://instagram.com/brnoartscollective"
 
 # Build settings
 markdown: kramdown
